@@ -1,5 +1,7 @@
 ># `Flow Chart Admin`
 >
->      Frontend at http://localhost:3000/ and Backend at http://localhost:8000/
+>      Frontend Deployed at https://block-flow.vercel.app/
+>      Admin at https://block-flow-api.vercel.app/admin/workflow/workflow/1/change/
+>      Backend at https://block-flow-api.vercel.app/api/load_workflow/?name=MyWorkflow
 >
->![image](https://github.com/user-attachments/assets/a08d4013-5c25-482f-9883-86f251321302)
+>![image](https://github.com/user-attachments/assets/346687cc-8b29-4aaa-9e27-18f3c0008d36)
